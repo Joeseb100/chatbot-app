@@ -1,3 +1,35 @@
+# SoraBot - AI Chat Assistant
+
+An intelligent chat application powered by Google's Gemini AI.
+
+## Features
+- Real-time AI responses
+- Modern, responsive UI
+- Interactive suggestion chips
+- Dark theme interface
+- Error handling and retry logic
+
+## Tech Stack
+- React.js
+- Google Gemini AI
+- Custom CSS animations
+- Responsive Design
+
+## Setup Instructions
+1. Clone the repository
+2. Install dependencies: `npm install`
+3. Create `.env` file with your Gemini API key:
+   ```
+   REACT_APP_GOOGLE_API_KEY=your_key_here
+   ```
+4. Run the app: `npm start`
+
+## Screenshots
+[Add screenshots of your application]
+
+## Demo
+[Add link to deployed version]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
