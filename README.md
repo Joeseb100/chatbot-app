@@ -25,10 +25,8 @@ An intelligent chat application powered by Google's Gemini AI.
 4. Run the app: `npm start`
 
 ## Screenshots
-[Add screenshots of your application]
+<img width="607" alt="image" src="https://github.com/user-attachments/assets/8302a899-febe-4b14-b83d-3090836d8e91" />
 
-## Demo
-[Add link to deployed version]
 
 # Getting Started with Create React App
 
